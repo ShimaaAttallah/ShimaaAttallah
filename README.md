@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shimaa Attallah</h1>
 <h3 align="center">A passionate full-stack developer from Egypt</h3>
 
+
 <img alt="Coding" height="350" width="100%" src="https://www.thehansindia.com/assets/Language(1).jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimaaattallah&label=Profile%20views&color=0e75b6&style=flat" alt="shimaaattallah" /> </p>
@@ -27,6 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimaaattallah&show_icons=true&locale=en&layout=compact" alt="shimaaattallah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shimaaattallah&show_icons=true&locale=en" alt="shimaaattallah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shimaaattallah&" alt="shimaaattallah" /></p>
 
