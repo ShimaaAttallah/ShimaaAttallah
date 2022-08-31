@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shimaa Attallah</h1>
-<h3 align="center"><img alt="Coding" src="https://lh3.googleusercontent.com/ XpWgFI9JtqimfYySgaIEcowVj0ynPEtLAKeC_235OuOdtFb16mjjbFUGzavve0usziNEBQ=s170"></h3>
+<h3 align="center">Python Full Stack Developer</h3>
 
 <img alt="Coding" height="350" width="100%" src="https://www.thehansindia.com/assets/Language(1).jpg">
 
